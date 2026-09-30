@@ -1,0 +1,8 @@
+PHOTO UPDATE
+The hero portrait now uses the photo supplied by the user.
+
+File:
+images/ruffa-photo.png
+
+To replace it later, keep the filename the same and overwrite the image,
+or change the src path in index.html.
